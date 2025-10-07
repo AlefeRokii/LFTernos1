@@ -210,7 +210,9 @@ export default function Home() {
               <h3 className="text-xl font-semibold mb-2">Dias de semana</h3>
               <p className="text-gray-300">Seg: 9:00 - 19:00h <br />
               Ter e Qua: 9:00 - 18:00h <br />
-              Qui e Sex: 9:00 - 19:00h
+              Qui e Sex: 9:00 - 19:00h <br />
+              Sabado: 9:00 - 19:00h <br />
+              Domingo: 9:00 - 13:00h
               
 
 
