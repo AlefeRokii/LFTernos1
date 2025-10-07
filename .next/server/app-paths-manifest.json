@@ -1,0 +1,8 @@
+{
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/casual/page": "app/casual/page.js",
+  "/page": "app/page.js",
+  "/formal/page": "app/formal/page.js",
+  "/social/page": "app/social/page.js"
+}

@@ -1,0 +1,8 @@
+{
+  "/icon.svg/route": "/icon.svg",
+  "/_not-found/page": "/_not-found",
+  "/casual/page": "/casual",
+  "/page": "/",
+  "/formal/page": "/formal",
+  "/social/page": "/social"
+}
