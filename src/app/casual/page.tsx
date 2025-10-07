@@ -34,7 +34,7 @@ export default function CasualPage() {
               <ArrowLeft size={20} />
               <span>Voltar</span>
             </Link>
-            <h1 className="text-2xl font-bold text-black">Elegance Suits</h1>
+            <h1 className="text-2xl font-bold text-black">LFTernos</h1>
             <div></div>
           </div>
         </div>
