@@ -272,9 +272,9 @@ export default function Home() {
               <Clock className="mx-auto mb-4 text-yellow-400" size={48} />
               <h3 className="text-xl font-semibold mb-2">Atendimento</h3>
               <p className="text-gray-600">
-                Segunda a Sexta: 9h às 19h<br />
-                Sábado: 9h às 19h<br />
-                Domingo: 10h às 16h
+                Seg: 9:00 - 19:00h <br />
+              Ter e Qua: 9:00 - 18:00h <br />
+              Qui e Sex: 9:00 - 19:00h
               </p>
             </div>
           </div>
