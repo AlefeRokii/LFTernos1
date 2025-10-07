@@ -274,7 +274,10 @@ export default function Home() {
               <p className="text-gray-600">
                 Seg: 9:00 - 19:00h <br />
               Ter e Qua: 9:00 - 18:00h <br />
-              Qui e Sex: 9:00 - 19:00h
+              Qui e Sex: 9:00 - 19:00h <br />
+              Sabado: 9:00 - 19:00h <br />
+              Domingo: 9:00 - 13:00h
+                
               </p>
             </div>
           </div>
